@@ -5,6 +5,7 @@
  * @returns The function `findLongestWordInString` is returning the longest word in the input string
  * 'quick box jump over the lazy dog'.
  */
+
 const findLongestWordInString = (str) => {
   if (str.trim().length === 0) {
     return false;
